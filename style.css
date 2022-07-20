@@ -188,7 +188,7 @@ header.logo {
 .attribution {
   position: relative;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 70px;
 }
 .attribution a{
   text-decoration: none;
@@ -197,6 +197,9 @@ header.logo {
 }
 /* Media Queries */
 @media(max-width:991px) {
+  section{
+    overflow: -moz-hidden-unscrollable;
+  }
   
   
   header .navigation{
