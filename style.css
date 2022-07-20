@@ -197,9 +197,7 @@ header.logo {
 }
 /* Media Queries */
 @media(max-width:991px) {
-  section{
-    
-  }
+  
   
   header .navigation{
     display: none;
