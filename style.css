@@ -185,12 +185,12 @@ header.logo {
   display: none;
 }
 
-.attribution {
+footer {
   position: relative;
   text-align: center;
   padding-top: 70px;
 }
-.attribution a{
+footer a{
   text-decoration: none;
   color: black;
   font-weight: bolder;
@@ -198,7 +198,7 @@ header.logo {
 /* Media Queries */
 @media(max-width:991px) {
   section{
-    overflow: hidden;
+    overflow-x: hidden;
   }
   
   
