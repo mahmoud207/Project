@@ -198,7 +198,7 @@ header.logo {
 /* Media Queries */
 @media(max-width:991px) {
   section{
-    overflow: -moz-hidden-unscrollable;
+    overflow: hidden;
   }
   
   
